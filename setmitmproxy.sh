@@ -11,7 +11,7 @@ else
     then
         SET=0
     else 
-        echo "usage: $0 --set local_IP or $0 --unset local_IP"
+        echo "usage: $0 --set or $0 --unset"
         exit 0
     fi
 fi
